@@ -1,8 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">QuizApp</string>
     <string name="appTitle">QuizApp</string>
     <string name="welcome">Welcome</string>
     <string name="nameRequest">Please enter your name</string>
-    <string name="nameHint">Name</string>
     <string name="startButtonText">START</string>
 </resources>
