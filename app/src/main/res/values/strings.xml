@@ -6,4 +6,5 @@
     <string name="nameHint">Name</string>
     <string name="startButtonText">START</string>
     <string name="submit">SUBMIT</string>
+    <string name="finish">FINISH</string>
 </resources>
